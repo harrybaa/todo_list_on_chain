@@ -1,0 +1,11 @@
+.item {
+    display: flex;
+    color: #fff;
+    margin: 12px 36px;
+    align-items: flex-start;
+}
+
+.item-label {
+    margin-left: 16px;
+    text-align: left;
+}
